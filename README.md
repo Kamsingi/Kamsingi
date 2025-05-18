@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kamsingi
 - 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Python Programming at Beginner level
-- 💞️ I’m looking to collaborate on learning this language together
+- 🌱 Pyrhon/Javascpript/Html/CSS
+- 💞️ Web develoment|Data Analytics| 
 - 📫 How to reach me Instagram @chief_nous
 
 <!---
